@@ -48,3 +48,4 @@ Rakefile
 tmp
 /docs 
 /test
+.Rproj.user
