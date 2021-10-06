@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Abhishek Bongale # "Your Name"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Artificial Intelligence Student at Dublin City University. Interested deducting problem using data"
+  bio              : "Artificial Intelligence Student at Dublin City University. Deducting problem using data"
   location         : "Dublin, Ireland"
   email            : abhishekbongale@outlook.com
   links:
